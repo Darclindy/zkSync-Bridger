@@ -19,7 +19,8 @@
 
 ```
 python3.10 -m venv .venv
-source .venv/bin/activate
+UNIX: source .venv/bin/activate
+WINDOWS: .venv\Scripts\Activate
 pip install web3
 ```
 
